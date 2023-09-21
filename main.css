@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-size: 30px;
+    border: 3px dotted red;
+    padding: 4px 0px 4px 4px;
+}
+
+p {
+    text-indent: 30px;
+    color: blue;
+    line-height: 1.8;
+    word-spacing: 14px;
+    /*  */
+}
